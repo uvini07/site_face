@@ -1,3 +1,6 @@
 streamlit
 pymongo[srv]
-Pillow
+pillow
+numpy
+scikit-image
+matplotlib
